@@ -5,7 +5,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(to bottom right, #3498db, #e74c3c);
+    background-image: linear-gradient(to bottom right, #5761B2, #1FC5A8);
+}
 }
 
 .container {
